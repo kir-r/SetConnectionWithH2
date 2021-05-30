@@ -1,0 +1,8 @@
+13:54:17.873 [main] INFO  com.epam.filesystem.Main - sdsa
+13:55:06.305 [main] INFO  com.epam.filesystem.Main - sdsa
+13:55:06.318 [main] ERROR com.epam.filesystem.Main - dsf
+13:55:06.318 [main] WARN  com.epam.filesystem.Main - gfs
+13:56:54.415 [main] INFO  com.epam.filesystem.Main - sdsa
+13:56:54.427 [main] ERROR com.epam.filesystem.Main - dsf
+13:56:54.427 [main] WARN  com.epam.filesystem.Main - gfs
+13:59:17.838 [main] INFO  com.epam.filesystem.Main - не работатет
